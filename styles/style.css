@@ -88,6 +88,11 @@ a {
     color: #000;
     font-size: 1.1em;
     text-decoration: none;
+    transition: 300ms all;
+}
+
+a:hover {
+    color: #6a6a67;
 }
 
 a i {
